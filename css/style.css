@@ -98,14 +98,5 @@ img:hover{
   border: 1px solid #7f00ff;
   
 }
-.sk{
-  position: absolute;
-  top: 12rem;
-  left: 5px;
-  border-bottom: 1px solid #7f00ff;
-}
-.skill a:hover{
-  background-color: #7f00ff;
-}
 
 
